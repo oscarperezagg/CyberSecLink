@@ -4,9 +4,9 @@ The objective of this repository is to provide comprehensive documentation and a
 
 # Table of Contents
 
-- [CSP](#csp)
-  - [Script-src Directive](#script-src-directive)
-  - [CSP Tools](#csp-tools)
+- [CSP](./CSP)
+  - [Script-src Directive](./CSP/script-src.md)
+  - [CSP Tools](./CSP/tools.md)
 
 ## CSP
 
